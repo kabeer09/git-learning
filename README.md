@@ -14,3 +14,9 @@ This repository contains my practice work for learning Git and GitHub.
 - Git
 - GitHub
 - VS Code
+
+## Learning Summary
+- Git setup and configuration
+- Cloning repositories
+- Staging and committing changes
+- Branching and pull requests
