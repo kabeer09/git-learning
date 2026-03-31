@@ -1,5 +1,4 @@
-
-# Github 
+# git hub
 - git init
-- git add "file name"
-
+- git add .
+- git commit -m "msg"
