@@ -1,5 +1,6 @@
 # Git & GitHub Learning Repository
 
+
 ## Overview
 This repository contains my practice work for learning Git and GitHub.
 
@@ -20,3 +21,8 @@ This repository contains my practice work for learning Git and GitHub.
 - Cloning repositories
 - Staging and committing changes
 - Branching and pull requests
+
+## Git User Name & Email
+- UserName : Kabeer09
+- UserEmail : Kabeerahmed2025@gmail.com
+
